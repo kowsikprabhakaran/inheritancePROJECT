@@ -15,5 +15,7 @@ public class Elctronics {
 	public String toString() {
 		return power + product + product;
 	}
+	
+	System.out.println("kake");
 
 }
